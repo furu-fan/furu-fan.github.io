@@ -1,6 +1,6 @@
 ---
 title: 『벚꽃 내리는 시대에 결투를』 FAQ
-date: 2025-06-03 12:00:00 +09:00
+date: 2025-08-15 10:00:00 +09:00
 categories: [후루요니, 자료]
 tags: [furuyoni]
 published: true
