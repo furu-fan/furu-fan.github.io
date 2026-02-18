@@ -15,12 +15,11 @@ published: true
 > 유저 개인의 비공식 번역으로, 대부분의 내용과 구성은 코리아보드게임즈에서 번역·제작한 [9-2시즌 규칙서](https://www.koreaboardgames.com/attachment/download?orgFileName=%EB%B2%9A%EA%BD%83%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EC%8B%9C%EB%8C%80%EC%97%90%20%EA%B2%B0%ED%88%AC%EB%A5%BC_%ED%86%B5%ED%95%A9%20%EA%B7%9C%EC%B9%99%EC%84%9C_web.pdf&filePath=upload/2024-05-09/5CVhceiGKrYq2zWNndEa.pdf)를 참고하여 제작했습니다.
 >
 > 내용과 표현이 정확하지 않을 수 있으니 일본어로 작성된 [총합룰 문서](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/dl/furuyoni_comprehensive_rule.pdf)도 참고해주세요.
-> {: .prompt-info }
+{: .prompt-info }
 
 ## 통합 규칙
 
 ### 들어가며
-
 {: data-toc-skip='' .mt-4 .mb-0 }
 
 본 문서는 『벚꽃 내리는 시대에 결투를』 게임을 보다 엄밀하게 운용하기 위하여 작성된 규칙 문서이다. 본 문서는 다음의 3개 항목으로 구성된다.
