@@ -1,5 +1,5 @@
 ---
-title: 『벚꽃 내리는 시대에 결투를』 경기 대회 재정 지침
+title: (Deprecated)『벚꽃 내리는 시대에 결투를』 경기 대회 재정 지침
 date: 2025-08-15 12:00:00 +09:00
 categories: [후루요니, 자료]
 tags: [furuyoni]
@@ -9,6 +9,9 @@ published: true
 (2025. 08. 15. 기준 비공식 번역)
 
 번역 오류 / 문의 사항: furuyonifan@gmail.com
+
+> 이 재정 지침은 이제 사용되지 않습니다. 새로 작성된 [대회 플로어 규칙](https://furu-fan.github.io/posts/furuyoni-floor-rule/)과 [대회 레귤레이션](https://furu-fan.github.io/posts/furuyoni-regulation/)을 참고해주세요.
+{: .prompt-warning}
 
 > 이 지침은 공식 번역이 아닙니다!
 >
