@@ -2959,7 +2959,7 @@ TransForm 카드의 추가기본동작의 효과는 카드의 효과이다.
 
 ##### 『가상수』 메구미의 경우
 
-카드 번호가 `「RE-19-megumi-O-N-2」`, `「RE-19-megumi-O-S-3」`, `「RE-19-megumi-O-S-4」`인 카드를, `「RE-19-megumi-A1-S-2」`, `「RE-19-megumi-A1-S-3」`, `「RE-19-megumi-A1-S-4」`와 교체한다.
+카드 번호가 `「RE-19-megumi-O-N-2」`, `「RE-19-megumi-O-S-3」`, `「RE-19-megumi-O-S-4」`인 카드를, `「RE-19-megumi-A1-N-2」`, `「RE-19-megumi-A1-S-3」`, `「RE-19-megumi-A1-S-4」`와 교체한다.
 
 ##### 신막 카드의 경우
 
